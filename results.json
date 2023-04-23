@@ -1,0 +1,1 @@
+{"hoop_race": {"success": true, "duration": 7.124095799983479}, "distance_maze": {"success": true, "duration": 76.87543010001536}, "vision_maze": {"success": true, "duration": 79.69075670000166}, "sar_map": {"success": false, "distance": 1000000.0, "duration": 1000000.0}, "fake_map": {"success": false, "duration": 1000000.0}}
